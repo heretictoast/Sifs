@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sif\'s Sanctuary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DSclassPrompt">Choose a class!</string>
+    <string-array name="DSclasses">
+        <item>Warrior</item>
+        <item>Knight</item>
+        <item>Wanderer</item>
+        <item>Thief</item>
+        <item>Bandit</item>
+        <item>Hunter</item>
+        <item>Sorcerer</item>
+        <item>Pyromancer</item>
+        <item>Cleric</item>
+        <item>Deprived</item>
+    </string-array>
+    <string-array name="Helmets">
+        <item>Naked</item>
+        <item>Balder Helm</item>
+        <item>Big Hat</item>
+        <item>Black Iron Helm</item>
+        <item>Black Knight Helm</item>
+        <item>Black Sorcerer Hat</item>
+        <item>Bloated Head</item>
+        <item>Bloated Sorcerer Head</item>
+        <item>Brass Helm</item>
+        <item>Brigand Hood</item>
+        <item>Catarina Helm</item>
+        <item>Chain Helm</item>
+        <item>Cleric Helm</item>
+        <item>Crown of Dusk</item>
+        <item>Crown of the Dark Sun</item>
+        <item>Crown of the Great Lord</item>
+        <item>Crystalline Helm</item>
+        <item>Dark Mask</item>
+        <item>Dingy Hood</item>
+        <item>Eastern Helm</item>
+        <item>Elite Knight Helm</item>
+        <item>Fang Boar Helm</item>
+        <item>Gargoyle Helm</item>
+        <item>Giant Helm</item>
+        <item>Gold-Hemmed Black Hood</item>
+        <item>Golem Helm</item>
+        <item>Gough\'s Helm</item>
+        <item>Guardian Helm</item>
+        <item>Havel\'s Helm</item>
+        <item>Helm of Artorias</item>
+        <item>Helm of Favor</item>
+        <item>Helm of the Wise</item>
+        <item>Helm of Thorns</item>
+        <item>Hollow Soldier Helm</item>
+        <item>Hollow Thief\'s Hood</item>
+        <item>Hollow Warrior Helm</item>
+        <item>Iron Helm</item>
+        <item>Knight Helm</item>
+        <item>Maiden Hood</item>
+        <item>Mask of the Child</item>
+        <item>Mask of the Father</item>
+        <item>Mask of the Mother</item>
+        <item>Mask of the Sealer</item>
+        <item>Mask of Velka</item>
+        <item>Ornstein\'s Helm</item>
+        <item>Painting Guardian Hood</item>
+        <item>Paladin Helm</item>
+        <item>Pharis\'s Hat</item>
+        <item>Porcelain Mask</item>
+        <item>Priest\'s Hat</item>
+        <item>Royal Helm</item>
+        <item>Sack</item>
+        <item>Shadow Mask</item>
+        <item>Silver Knight Helm</item>
+        <item>Six-Eyed Helm of the Channelers</item>
+        <item>Smough\'s Helm</item>
+        <item>Snickering Top Hat</item>
+        <item>Sorcerer Hat</item>
+        <item>Standard Helm</item>
+        <item>Steel Helm</item>
+        <item>Stone Helm</item>
+        <item>Sunlight Maggot</item>
+        <item>Symbol of Avarice</item>
+        <item>Tattered Cloth Hood</item>
+        <item>Thief Mask</item>
+        <item>Wanderer Hood</item>
+        <item>Witch Hat</item>
+        <item>Xanthous Crown</item>
+    </string-array>
+    
+    <string-array name = "Chest">
+        <item>Naked</item>
+        <item>Antiquated Dress</item>
+        <item>Armor of Artorias</item>
+        <item>Armor of the Glorious</item>
+        <item>Armor of the Sun</item>
+        <item>Armor of Thorns</item>
+        <item>Balder Armor</item>
+        <item>Black Cleric Robe</item>
+        <item>Black Iron Armor</item>
+        <item>Black Knight Armor</item>
+        <item>Black Leather Armor</item>
+        <item>Black Sorcerer Cloak</item>
+        <item>Brass Armor</item>
+        <item>Brigand Armor</item>
+        <item>Catarina Armor</item>
+        <item>Chain Armor</item>
+        <item>Chester\'s Long Coat</item>
+        <item>Cleric Armor</item>
+        <item>Crimson Robe</item>
+        <item>Crystalline Armor</item>
+        <item>Dark Armor</item>
+        <item>Dingy Robe</item>
+        <item>Eastern Armor</item>
+        <item>Elite Knight Armor</item>
+        <item>Embraced Armor of Favor</item>
+        <item>Giant Armor</item>
+        <item>Gold-Hemmed Black Cloak</item>
+        <item>Golem Armor</item>
+        <item>Gough\'s Armor</item>
+        <item>Guardian Armor</item>
+        <item>Hard Leather Armor</item>
+        <item>Havel\'s Armor</item>
+        <item>Hollow Soldier Armor</item>
+        <item>Hollow Thief\'s Leather Armor</item>
+        <item>Hollow Warrior Armor</item>
+        <item>Holy Robe</item>
+        <item>Knight Armor</item>
+        <item>Leather Armor</item>
+        <item>Lord\'s Blade Robe</item>
+        <item>Maiden Robe</item>
+        <item>Moonlight Robe</item>
+        <item>Ornstein\'s Armor</item>
+        <item>Painting Guardian Robe</item>
+        <item>Paladin Armor</item>
+        <item>Robe of the Channelers</item>
+        <item>Robe of the Great Lord</item>
+        <item>Sage Robe</item>
+        <item>Shadow Garb</item>
+        <item>Silver Knight Armor</item>
+        <item>Smough\'s Armor</item>
+        <item>Sorcerer Cloak</item>
+        <item>Steel Armor</item>
+        <item>Stone Armor</item>
+        <item>Tattered Cloth Robe</item>
+        <item>Wanderer Coat</item>
+        <item>Witch Cloak</item>
+        <item>Xanthous Overcoat</item>
+    </string-array>
+    <string-array name="Hands">
+        <item>Naked</item>
+        <item>Antiquated Gloves</item>
+        <item>Balder Gauntlets</item>
+        <item>Black Iron Gauntlets</item>
+        <item>Black Knight Gauntlets</item>
+        <item>Black Leather Gloves</item>
+        <item>Black Manchette</item>
+        <item>Black Sorcerer Gauntlets</item>
+        <item>Bracelet of the Great Lord</item>
+        <item>Brass Gauntlets</item>
+        <item>Brigand Gauntlets</item>
+        <item>Catarina Gauntlets</item>
+        <item>Chester\'s Gloves</item>
+        <item>Cleric Gauntlets</item>
+        <item>Crimson Gloves</item>
+        <item>Crystalline Gauntlets</item>
+        <item>Dark Gauntlets</item>
+        <item>Dingy Gloves</item>
+        <item>Eastern Gauntlets</item>
+        <item>Elite Knight Gauntlets</item>
+        <item>Gauntlets of Artorias</item>
+        <item>Gauntlets of Favor</item>
+        <item>Gauntlets of the Channelers</item>
+        <item>Gauntlets of the Vanquisher</item>
+        <item>Gauntlets of Thorns</item>
+        <item>Gold-Hemmed Black Gloves</item>
+        <item>Golem Gauntlets</item>
+        <item>Gough\'s Gauntlets</item>
+        <item>Guardian Gauntlets</item>
+        <item>Hard Leather Gauntlets</item>
+        <item>Havel\'s Gauntlets</item>
+        <item>Iron Bracelet</item>
+        <item>Knight Gauntlets</item>
+        <item>Leather Gauntlets</item>
+        <item>Leather Gloves</item>
+        <item>Lord\'s Blade Gloves</item>
+        <item>Maiden Gloves</item>
+        <item>Moonlight Gloves</item>
+        <item>Ornstein\'s Gauntlets</item>
+        <item>Painting Guardian Gloves</item>
+        <item>Paladin Gauntlets</item>
+        <item>Shadow Gauntlets</item>
+        <item>Silver Knight Gauntlets</item>
+        <item>Smough\'s Gauntlets</item>
+        <item>Sorcerer Gauntlets</item>
+        <item>Steel Gauntlets</item>
+        <item>Stone Gauntlets</item>
+        <item>Tattered Cloth Manchette</item>
+        <item>Traveling Gloves (Big Hat\'s Set)</item>
+        <item>Traveling Gloves (Cleric Set)</item>
+        <item>Wanderer Manchette</item>
+        <item>Witch Gloves</item>
+        <item>Xanthous Gloves</item>
+    </string-array>
+    <string-array name="Legs">
+        <item>Naked</item>
+        <item>Anklet Of The Great Lord</item>
+        <item>Antiquated Skirt</item>
+        <item>Balder Leggings</item>
+        <item>Black Iron Leggings</item>
+        <item>Black Knight Leggings</item>
+        <item>Black Leather Boots</item>
+        <item>Black Sorcerer Boots</item>
+        <item>Black Tights</item>
+        <item>Blood-Stained Skirt</item>
+        <item>Boots of the Explorer</item>
+        <item>Brass Leggings</item>
+        <item>Brigand Trousers</item>
+        <item>Catarina Leggings</item>
+        <item>Chain Leggings</item>
+        <item>Chester\'s Trousers</item>
+        <item>Cleric Leggings</item>
+        <item>Crimson Waistcloth</item>
+        <item>Crystalline Leggings</item>
+        <item>Dark Leggings</item>
+        <item>Eastern Leggings</item>
+        <item>Elite Knight Leggings</item>
+        <item>Giant Leggings</item>
+        <item>Gold-Hemmed Black Skirt</item>
+        <item>Golem Leggings</item>
+        <item>Gough\'s Leggings</item>
+        <item>Guardian Leggings</item>
+        <item>Hard Leather Boots</item>
+        <item>Havel\'s Leggings</item>
+        <item>Heavy Boots</item>
+        <item>Hollow Soldier Waistcloth</item>
+        <item>Hollow Thief\'s Tights</item>
+        <item>Hollow Warrior Waistcloth</item>
+        <item>Holy Trousers</item>
+        <item>Iron Leggings</item>
+        <item>Knight Leggings</item>
+        <item>Leather Boots</item>
+        <item>Leggings of Artorias</item>
+        <item>Leggings of Favor</item>
+        <item>Leggings of Thorns</item>
+        <item>Lord\'s Blade Waistcloth</item>
+        <item>Maiden Skirt</item>
+        <item>Moonlight Waistcloth</item>
+        <item>Ornstein\'s Leggings</item>
+        <item>Painting Guardian Waistcloth</item>
+        <item>Paladin Leggings</item>
+        <item>Shadow Leggings</item>
+        <item>Silver Knight Leggings</item>
+        <item>Smough\'s Leggings</item>
+        <item>Sorcerer Boots</item>
+        <item>Steel Leggings</item>
+        <item>Stone Leggings</item>
+        <item>Traveling Boots</item>
+        <item>Waistcloth of the Channelers</item>
+        <item>Wanderer Boots</item>
+        <item>Witch Skirt</item>
+        <item>Xanthous Waistcloth</item>
+    </string-array>
+    <string-array name="Rings">
+        <item>Naked</item>
+        <item>Bellowing Dragoncrest Ring</item>
+        <item>Bloodbite Ring</item>
+        <item>Blue Tearstone Ring</item>
+        <item>Calamity Ring</item>
+        <item>Cat Covenant Ring</item>
+        <item>Cloranthy Ring</item>
+        <item>Covenant Of Artorias</item>
+        <item>Covetous Gold Serpent Ring</item>
+        <item>Covetous Silver Serpent Ring</item>
+        <item>Cursebite Ring</item>
+        <item>Darkmoon Blade Covenant Ring</item>
+        <item>Darkmoon Seance Ring</item>
+        <item>Dark Wood Grain Ring</item>
+        <item>Dusk Crown Ring</item>
+        <item>East Wood Grain Ring</item>
+        <item>Flame Stoneplate Ring</item>
+        <item>Havel\'s Ring</item>
+        <item>Hawk Ring</item>
+        <item>Hornet Ring</item>
+        <item>Leo Ring</item>
+        <item>Lingering Dragoncrest Ring</item>
+        <item>Old Witch\'s Ring</item>
+        <item>Orange Charred Ring</item>
+        <item>Poisonbite Ring</item>
+        <item>Rare Ring of Sacrifice</item>
+        <item>Red Tearstone Ring</item>
+        <item>Ring of Favor and Protection</item>
+        <item>Ring of Fog</item>
+        <item>Ring of Sacrifice</item>
+        <item>Ring of Steel Protection</item>
+        <item>Ring of the Evil Eye</item>
+        <item>Ring of the Sun\'s Firstborn</item>
+        <item>Ring of the Sun Princess</item>
+        <item>Rusted Iron Ring</item>
+        <item>Slumbering Dragoncrest Ring</item>
+        <item>Speckled Stoneplate Ring</item>
+        <item>Spell Stoneplate Ring</item>
+        <item>Thunder Stoneplate Ring</item>
+        <item>Tiny Being\'s Ring</item>
+        <item>White Seance Ring</item>
+        <item>Wolf Ring</item>
+    </string-array>
+    <string-array name="Weapons">
+        <item>Fist</item>
+        <item>Abyss Greatsword</item>
+        <item>Astora\'s Straight Sword</item>
+        <item>Balder Side Sword</item>
+        <item>Bandit\'s Knife</item>
+        <item>Barbed Straight Sword</item>
+        <item>Bastard Sword</item>
+        <item>Battle Axe</item>
+        <item>Black Knight Greataxe</item>
+        <item>Black Knight Greatsword</item>
+        <item>Black Knight Halberd</item>
+        <item>Black Knight Sword</item>
+        <item>Blacksmith Giant Hammer</item>
+        <item>Blacksmith Hammer</item>
+        <item>Broad Sword</item>
+        <item>Broken Straight Sword</item>
+        <item>Butcher Knife</item>
+        <item>Caestus</item>
+        <item>Channeler\'s Trident</item>
+        <item>Chaos Blade</item>
+        <item>Claw</item>
+        <item>Claymore</item>
+        <item>Club</item>
+        <item>Crescent Axe</item>
+        <item>Crystal Greatsword</item>
+        <item>Crystal Straight Sword</item>
+        <item>Dagger</item>
+        <item>DarkHand</item>
+        <item>Dark Silver Tracer</item>
+        <item>Dark Sword</item>
+        <item>Demon\'s Greataxe</item>
+        <item>Demon\'s Great Hammer</item>
+        <item>Demon Great Machete</item>
+        <item>Demon\'s Spear</item>
+        <item>Dragonslayer Spear</item>
+        <item>Dragon Bone Fist</item>
+        <item>Dragon Greatsword</item>
+        <item>Dragon King Greataxe</item>
+        <item>Dragon Tooth</item>
+        <item>Drake Sword</item>
+        <item>Estoc</item>
+        <item>Falchion</item>
+        <item>Flamberge</item>
+        <item>Four-Pronged Plow</item>
+        <item>Gargoyle Tail Axe</item>
+        <item>Gargoyle\'s Halberd</item>
+        <item>Ghost Blade</item>
+        <item>Giant\'s Halberd</item>
+        <item>Gold Tracer</item>
+        <item>Golem Axe</item>
+        <item>Grant</item>
+        <item>Gravelord Sword</item>
+        <item>Greataxe</item>
+        <item>Great Club</item>
+        <item>Great Lord Greatsword</item>
+        <item>Great Scythe</item>
+        <item>Greatsword</item>
+        <item>Greatsword of Artorias</item>
+        <item>Greatsword of Artorias (Cursed)</item>
+        <item>Guardian Tail</item>
+        <item>Halberd</item>
+        <item>Hammer of Vamos</item>
+        <item>Hand Axe</item>
+        <item>Iaito</item>
+        <item>Jagged Ghost Blade</item>
+        <item>Large Club</item>
+        <item>Lifehunt Scythe</item>
+        <item>Longsword</item>
+        <item>Lucerne</item>
+        <item>Mace</item>
+        <item>Mail Breaker</item>
+        <item>Man Serpent Greatsword</item>
+        <item>Moonlight Butterfly Horn</item>
+        <item>Moonlight Greatsword</item>
+        <item>Morning Star</item>
+        <item>Murakumo</item>
+        <item>Notched Whip</item>
+        <item>Obsidian Greatsword</item>
+        <item>Painting Guardian Sword</item>
+        <item>Parrying Dagger</item>
+        <item>Partizan</item>
+        <item>Pickaxe</item>
+        <item>Pike</item>
+        <item>Priscilla\'s Dagger</item>
+        <item>Quelaag\'s Fury Sword</item>
+        <item>Rapier</item>
+        <item>Reinforced Club</item>
+        <item>Ricard\'s Rapier</item>
+        <item>Scimitar</item> 
+        <item>Scythe</item>
+        <item>Server</item>
+        <item>Shortsword</item>
+        <item>Shotel</item>
+        <item>Silver Knight Spear</item>
+        <item>Silver Knight Straight Sword</item>
+        <item>Smough\'s Hammer</item>
+        <item>Spear</item>
+        <item>Stone Greataxe</item>
+        <item>Stone Greatsword</item>
+        <item>Straight Sword Hilt</item>
+        <item>Sunlight Straight Sword</item>
+        <item>Titanite Catch Pole</item>
+        <item>Uchigatana</item>
+        <item>Velka\'s Rapier</item>
+        <item>Warpick</item>
+        <item>Washing Pole</item>3
+        <item>Whip</item>
+        <item>Winged Spear</item>
+        <item>Zweihander</item>
+        <item>Balder Shield</item>
+        <item>Black Iron Greatshield</item>
+        <item>Black Knight Shield</item>
+        <item>Bloodshield</item>
+        <item>Bonewheel Shield</item>
+        <item>Buckler</item>
+        <item>Caduceus Kite Shield</item>
+        <item>Caduceus Round Shield</item>
+        <item>Cleansing Greatshield</item>
+        <item>Crest Shield</item>
+        <item>Crystal Ring Shield</item>
+        <item>Crystal Shield</item>
+        <item>Dragon Crest Shield</item>
+        <item>Eagle Shield</item>
+        <item>East-West Shield</item>
+        <item>Effigy Shield</item>
+        <item>Gargoyle\'s Shield</item>
+        <item>Giant Shield</item>
+        <item>Grass Crest Shield</item>
+        <item>Greatshield of Artorias</item>
+        <item>Havel\'s Greatshield</item>
+        <item>Heater Shield</item>
+        <item>Hollow Soldier Shield</item>
+        <item>Iron Round Shield</item>
+        <item>Knight Shield</item>
+        <item>Large Leather Shield</item>
+        <item>Leather Shield</item>
+        <item>Pierce Shield</item>
+        <item>Plank Shield</item>
+        <item>Red and White Round Shield</item>
+        <item>Sanctus</item>
+        <item>Silver Knight Shield</item>
+        <item>Small Leather Shield</item>
+        <item>Spider Shield</item>
+        <item>Spiked Shield</item>
+        <item>Stone Greatshield</item>
+        <item>Sunlight Shield</item>
+        <item>Target Shield</item>
+        <item>Tower Shield</item>
+        <item>Tower Kite Shield</item>
+        <item>Warrior\'s Round Shield</item>
+        <item>Wooden Shield</item>
+        <item>Avelyn</item>
+        <item>Black Bow of Pharis</item>
+        <item>Composite Bow</item>
+        <item>Darkmoon Bow</item>
+        <item>Dragonslayer Greatbow</item>
+        <item>Gough\'s Greatbow</item>
+        <item>Heavy Crossbow</item>
+        <item>Light Crossbow</item>
+        <item>Long Bow</item>
+        <item>Short Bow</item>
+        <item>Sniper Crossbow</item>
+        <item>Beatrice\'s Catalyst</item>
+        <item>Demon\'s Catalyst</item>
+        <item>Izalith Catalyst</item>
+        <item>Logan\'s Catalyst</item>
+        <item>Manus Catalyst</item>
+        <item>Oolacile Catalyst</item>
+        <item>Oolacile Ivory Catalyst</item>
+        <item>Sorcerer\'s Catalyst</item>
+        <item>Tin Banishment Catalyst</item>
+        <item>Tin Crystallization Catalyst</item>
+        <item>Tin Darkmoon Catalyst</item>
+        <item>Canvas Talisman</item>
+        <item>Darkmoon Talisman</item>
+        <item>Ivory Talisman</item>
+        <item>Sunlight Talisman</item>
+        <item>Talisman</item>
+        <item>Thorolund Talisman</item>
+        <item>Velka\'s Talisman</item>
+        <item>Ascended Pyromancy Flame +5</item>
+        <item>Pyromancy Flame +15</item>
+    </string-array>
+    <string-array name="path">
+        <item></item>
+        <item>Normal +15</item>
+       	<item>Lightning +5</item>
+       	<item>Magic +10</item>
+       	<item>Divine +10</item>
+       	<item>Fire +10</item>
+       	<item>Crystal +5</item>
+       	<item>Raw +5</item>
+       	<item>Enchanted +5</item>
+       	<item>Occult +5</item>
+       	<item>Chaos +5</item>
+    </string-array>
+    <string-array name="spells">
+        <item>Nothing</item>
+        <item>Acid Surge</item>
+        <item>Black Flame</item>
+        <item>Chaos Fire Whip</item>
+        <item>Chaos Storm</item>
+        <item>Combustion</item>
+        <item>Fire Orb</item>
+        <item>Fire Surge</item>
+        <item>Fire Tempest</item>
+        <item>Fire Whip</item>
+        <item>Fireball</item>
+        <item>Firestorm</item>
+        <item>Flash Sweat</item>
+        <item>Great Chaos Fireball</item>
+        <item>Great Combustion</item>
+        <item>Great Fireball</item>
+        <item>Iron Flesh</item>
+        <item>Poison Mist</item>
+        <item>Power Within</item>
+        <item>Toxic Mist</item>
+        <item>Undead Rapport</item>
+        <item>Aural Decoy</item>
+        <item>Cast Light</item>
+        <item>Chameleon</item>
+        <item>Crystal Magic Weapon</item>
+        <item>Crystal Soul Spear</item>
+        <item>Dark Bead</item>
+        <item>Dark Fog</item>
+        <item>Dark Orb</item>
+        <item>Fall Control</item>
+        <item>Great Heavy Soul Arrow</item>
+        <item>Great Magic Weapon</item>
+        <item>Great Soul Arrow</item>
+        <item>Heavy Soul Arrow</item>
+        <item>Hidden Body</item>
+        <item>Hidden Weapon</item>
+        <item>Homing Crystal Soulmass</item>
+        <item>Homing Soulmass</item>
+        <item>Hush</item>
+        <item>Magic Shield</item>
+        <item>Magic Weapon</item>
+        <item>Pursuers</item>
+        <item>Remedy</item>
+        <item>Repair</item>
+        <item>Resist Curse</item>
+        <item>Soul Arrow</item>
+        <item>Soul Spear</item>
+        <item>Strong Magic Shield</item>
+        <item>White Dragon Breath</item>
+        <item>Bountiful Sunlight</item>
+        <item>Darkmoon Blade</item>
+        <item>Emit Force</item>
+        <item>Force</item>
+        <item>Gravelord Greatsword Dance</item>
+        <item>Gravelord Sword Dance</item>
+        <item>Great Heal Excerpt</item>
+        <item>Great Heal</item>
+        <item>Great Lightning Spear</item>
+        <item>Great Magic Barrier</item>
+        <item>Heal</item>
+        <item>Homeward</item>
+        <item>Karmic Justice</item>
+        <item>Lightning Spear</item>
+        <item>Magic Barrier</item>
+        <item>Replenishment</item>
+        <item>Seek Guidance</item>
+        <item>Soothing Sunlight</item>
+        <item>Sunlight Blade</item>
+        <item>Sunlight Spear</item>
+        <item>Tranquil Walk of Peace</item>
+        <item>Vow of Silence</item>
+        <item>Wrath of the Gods</item>
+    </string-array>
+    <string-array name="items">
+        <item>Nothing</item>
+        <item>Estus Flask</item>
+        <item>Black Separation Crystal</item>
+        <item>Orange Guidance Soapstone</item>
+        <item>Purple Coward\'s Crystal</item>
+        <item>Red Sign Soapstone</item>
+        <item>White Sign Soapstone</item>
+        <item>Black Eye Orb</item>
+        <item>Blue Eye Orb</item>
+        <item>Cracked Red Eye Orb</item>
+        <item>Red Eye Orb</item>
+        <item>Dragon Eye</item>
+        <item>Dragon Head Stone</item>
+        <item>Dragon Torso Stone</item>
+        <item>Eye of Death</item>
+        <item>Souvenir of Reprisal	</item>
+        <item>Sunlight Medal</item>
+        <item>Hello Carving</item>
+        <item>Very Good! Carving</item>
+        <item>Thank You Carving</item>
+        <item>I\'m Sorry Carving</item>
+        <item>Help Me! Carving</item>
+        <item>Book of the Guilty</item>
+        <item>Dried Finger</item>
+        <item>Indictment</item>
+        <item>Servant Roster</item>
+        <item>Elizabeth\'s Mushroom</item>
+        <item>Bloodred Moss Clump</item>
+        <item>Purple Moss Clump</item>
+        <item>Blooming Purple Moss Clump</item>
+        <item>Divine Blessing</item>
+        <item>Egg Vermifuge</item>
+        <item>Green Blossom</item>
+        <item>Purging Stone</item>
+        <item>Firebomb</item>
+        <item>Black Firebomb</item>
+        <item>Dung pie</item>
+        <item>Throwing Knife</item>
+        <item>Poison Throwing Knife</item>
+        <item>Charcoal Pine Resin</item>
+        <item>Gold Pine Resin</item>
+        <item>Rotten Pine Resin</item>
+        <item>Alluring Skull</item>
+        <item>Binoculars</item>
+        <item>Copper Coin</item>
+        <item>Silver Coin</item>
+        <item>Gold Coin</item>
+        <item>Darksign</item>
+        <item>Humanity</item>
+        <item>Twin Humanities</item>
+        <item>Homeward Bone</item>
+        <item>Lloyd\'s Talisman</item>
+        <item>Pendant</item>
+        <item>Prism Stone</item>
+        <item>Repair Powder</item>
+        <item>Rubbish</item>
+        <item>Silver Pendant</item>
+        <item>Transient Curse</item>
+    </string-array>
+</resources>
